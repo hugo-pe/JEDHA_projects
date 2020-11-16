@@ -1,1 +1,11 @@
 p1.txt
+/DLLs
+/Lib
+/Python38-32
+/site-packages
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/JEDHA_projects.iml
+.idea/.gitignore
